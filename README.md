@@ -1,4 +1,4 @@
-### Hi, I'm Jean-Pierre Novak
+## Hi, I'm Jean-Pierre Novak
 
 I'm a selftaught frontend developer with a lot of imagination. My journey started in 2018 in high school, where I was first introduced to the world of web development.
 After graduating I've started learning new technologies and started improving my skills little by little.
