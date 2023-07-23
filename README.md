@@ -4,12 +4,12 @@ I'm a selftaught frontend developer with a lot of imagination. My journey starte
 After graduating I've started learning new technologies and started improving my skills little by little.
 
 Here is a list of skills I've gotten up to this point
-> React.js
-> CSS
-> HTML
-> Vue.js
-> Bootstrap and other frameworks
-> and, of course, git
+- React.js
+- CSS
+- HTML
+- Vue.js
+- Bootstrap and other frameworks
+- and, of course, git
 
 I am currently a student at the Tehnical university of Zagreb, studying computer design.
 
