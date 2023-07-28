@@ -7,6 +7,7 @@ Here is a list of skills I've gotten up to this point
 - React.js
 - CSS
 - HTML
+- JavaScript
 - Vue.js
 - Bootstrap and other frameworks
 - and, of course, git
